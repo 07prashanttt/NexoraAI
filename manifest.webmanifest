@@ -1,0 +1,12 @@
+{
+  "name": "NEXORA AI",
+  "short_name": "NEXORA",
+  "description": "Your multilingual AI workspace",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4ff",
+  "theme_color": "#eef2ff",
+  "icons": [
+    {"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
